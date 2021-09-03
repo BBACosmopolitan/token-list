@@ -8869,6 +8869,17 @@
     },
     {
       "chainId": 101,
+      "address": "4mo6EvyV8MPvWXyaRffhfVbjVSpKT1mawjwZ13zwCPVK",
+      "symbol": "APHD",
+      "name": "Alexis P Honor and Dignity",
+      "decimals": 9,
+      "logoURI": "",
+      "tags": [],
+      "extensions": ""
+      }
+    },
+    {
+      "chainId": 101,
       "address": "AWW5UQfMBnPsTaaxCK7cSEmkj1kbX2zUrqvgKXStjBKx",
       "symbol": "SBFC",
       "name": "SBF Coin",
