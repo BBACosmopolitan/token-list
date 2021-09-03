@@ -11875,7 +11875,19 @@
         "website": "https://solana.lido.fi/",
         "twitter": "https://twitter.com/LidoFinance/"
       }
-    }
+    },
+     {
+      "chainId": 101,
+      "address": "4mo6EvyV8MPvWXyaRffhfVbjVSpKT1mawjwZ13zwCPVK",
+      "symbol": "APHD",
+      "name": "Alexis P.Honor Dignity token",
+      "decimals": 9,
+      "logoURI": "",
+      "tags": [],
+      "extensions": {
+      
+      }
+    },
   ],
   "version": {
     "major": 0,
